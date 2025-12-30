@@ -50,8 +50,8 @@ Sentinel-X is a sophisticated **Multi-Agent System (MAS)** designed to automate 
 
 ## 📸 Project Previews
 
-### System Metrics Dashboard
+### 📊 System Performance Dashboard
 ![Dashboard Screenshot](./images/dashboard.png)
 
-### Long-Term Memory Bank
+### 🧠 Long-Term Memory Bank
 ![Memory Bank Screenshot](./images/memory.png)
