@@ -37,15 +37,15 @@ Sentinel-X is a sophisticated **Multi-Agent System (MAS)** designed to automate 
    pip install prefect
    
 2. Start the Orchestrator:
-   
+   ```bash
    prefect server start
 
 4. Launch Sentinel-X:
-   
+   ```bash
    python sentinel_x.py
 
 6. View Performance:
-   
+   ```bash
    python dashboard.py
 
 ## 📸 Project Previews
